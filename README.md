@@ -3,7 +3,7 @@
 Low-cost 4-DOF robotic arm that identifies and sorts colour-coded
 pharmaceutical vials autonomously. MSc dissertation, University of Liverpool, 2026.
 
-![Arm sorting vials](media/demo.gif)
+![Arm sorting vials](media/arm_final.gif)
 
 ## Results
 - 0.58° mean joint-position error (2° max)
