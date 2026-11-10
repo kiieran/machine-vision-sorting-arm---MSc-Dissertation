@@ -3,9 +3,10 @@
 Low-cost 4-DOF robotic arm that identifies and sorts colour-coded
 pharmaceutical vials autonomously. MSc dissertation, University of Liverpool, 2026.
 
+**The arm is instructed to move red vials to the right, blue vials to the left, and to leave green vials in place.**
 ![Robotic arm completing a full sorting run](media/arm_final.gif)
-* Full autonomous sorting run (2× speed, reduced frame rate). *
-** The arm is instructed to move red vials to the right and blue vials to the left, and to leave green vials in place. **
+
+*Full autonomous sorting run (2× speed, reduced frame rate).*
 
 ## Results
 - 0.58° mean joint-position error (2° max)
